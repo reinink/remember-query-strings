@@ -1,0 +1,20 @@
+{
+    "name": "reinink/remember-query-strings",
+    "type": "library",
+    "description": "Laravel middleware that automatically remembers and restores query strings.",
+    "keywords": ["laravel", "middleware", "query-strings"],
+    "homepage": "https://github.com/reinink/remember-query-strings",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Reinink",
+            "email": "jonathan@reinink.ca",
+            "homepage": "https://reinink.ca"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Reinink\\": "src"
+        }
+    }
+}
